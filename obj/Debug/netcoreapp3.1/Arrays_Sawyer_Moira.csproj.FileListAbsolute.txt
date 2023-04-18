@@ -1,0 +1,5 @@
+C:\Users\moira.sawyer\source\repos\Arrays_Sawyer_Moira\obj\Debug\netcoreapp3.1\Arrays_Sawyer_Moira.csproj.AssemblyReference.cache
+C:\Users\moira.sawyer\source\repos\Arrays_Sawyer_Moira\obj\Debug\netcoreapp3.1\Arrays_Sawyer_Moira.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moira.sawyer\source\repos\Arrays_Sawyer_Moira\obj\Debug\netcoreapp3.1\Arrays_Sawyer_Moira.AssemblyInfoInputs.cache
+C:\Users\moira.sawyer\source\repos\Arrays_Sawyer_Moira\obj\Debug\netcoreapp3.1\Arrays_Sawyer_Moira.AssemblyInfo.cs
+C:\Users\moira.sawyer\source\repos\Arrays_Sawyer_Moira\obj\Debug\netcoreapp3.1\Arrays_Sawyer_Moira.csproj.CoreCompileInputs.cache
